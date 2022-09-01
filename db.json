@@ -1,0 +1,80 @@
+{
+  "logs": [
+    {
+      "message": "poruka",
+      "attention": false,
+      "tech": "Sara White",
+      "date": "2020-09-18T10:22:30.284Z",
+      "id": 7
+    },
+    {
+      "id": 8,
+      "message": "NAJN",
+      "tech": "Sam Smith",
+      "attention": true,
+      "date": "2020-09-18T12:39:28.419Z"
+    },
+    {
+      "message": "Danilo",
+      "attention": true,
+      "tech": "Sam Smith",
+      "date": "2020-09-18T13:32:32.771Z",
+      "id": 9
+    },
+    {
+      "message": "đoković",
+      "attention": false,
+      "tech": "Jon Doe",
+      "date": "2020-09-18T13:32:58.560Z",
+      "id": 10
+    },
+    {
+      "message": "promijenjeni",
+      "attention": true,
+      "tech": "John Doe",
+      "date": "2020-09-22T06:32:53.501Z",
+      "id": 12
+    },
+    {
+      "message": "promijenjeni",
+      "attention": false,
+      "tech": "Sara Wilson",
+      "date": "2020-09-22T07:33:11.963Z",
+      "id": 13
+    },
+    {
+      "message": "poruka",
+      "attention": true,
+      "tech": "John Doe",
+      "date": "2020-09-22T09:44:10.212Z",
+      "id": 14
+    }
+  ],
+  "techs": [
+    {
+      "id": 3,
+      "firstName": "Sara",
+      "lastName": "Wilson"
+    },
+    {
+      "firstName": "Danilo",
+      "lastName": "Ninković",
+      "id": 4
+    },
+    {
+      "firstName": "john",
+      "lastName": "doe",
+      "id": 5
+    },
+    {
+      "firstName": "Dora",
+      "lastName": "Ninkovic",
+      "id": 6
+    },
+    {
+      "firstName": "jil",
+      "lastName": "white",
+      "id": 7
+    }
+  ]
+}
